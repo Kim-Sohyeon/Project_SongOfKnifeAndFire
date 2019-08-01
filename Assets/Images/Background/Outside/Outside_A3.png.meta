@@ -1,0 +1,4336 @@
+fileFormatVersion: 2
+guid: 5acc65b9f1c0ea944a3c5bb44ea3e36b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Outside_A3_0
+  - first:
+      213: 21300002
+    second: Outside_A3_1
+  - first:
+      213: 21300004
+    second: Outside_A3_2
+  - first:
+      213: 21300006
+    second: Outside_A3_3
+  - first:
+      213: 21300008
+    second: Outside_A3_4
+  - first:
+      213: 21300010
+    second: Outside_A3_5
+  - first:
+      213: 21300012
+    second: Outside_A3_6
+  - first:
+      213: 21300014
+    second: Outside_A3_7
+  - first:
+      213: 21300016
+    second: Outside_A3_8
+  - first:
+      213: 21300018
+    second: Outside_A3_9
+  - first:
+      213: 21300020
+    second: Outside_A3_10
+  - first:
+      213: 21300022
+    second: Outside_A3_11
+  - first:
+      213: 21300024
+    second: Outside_A3_12
+  - first:
+      213: 21300026
+    second: Outside_A3_13
+  - first:
+      213: 21300028
+    second: Outside_A3_14
+  - first:
+      213: 21300030
+    second: Outside_A3_15
+  - first:
+      213: 21300032
+    second: Outside_A3_16
+  - first:
+      213: 21300034
+    second: Outside_A3_17
+  - first:
+      213: 21300036
+    second: Outside_A3_18
+  - first:
+      213: 21300038
+    second: Outside_A3_19
+  - first:
+      213: 21300040
+    second: Outside_A3_20
+  - first:
+      213: 21300042
+    second: Outside_A3_21
+  - first:
+      213: 21300044
+    second: Outside_A3_22
+  - first:
+      213: 21300046
+    second: Outside_A3_23
+  - first:
+      213: 21300048
+    second: Outside_A3_24
+  - first:
+      213: 21300050
+    second: Outside_A3_25
+  - first:
+      213: 21300052
+    second: Outside_A3_26
+  - first:
+      213: 21300054
+    second: Outside_A3_27
+  - first:
+      213: 21300056
+    second: Outside_A3_28
+  - first:
+      213: 21300058
+    second: Outside_A3_29
+  - first:
+      213: 21300060
+    second: Outside_A3_30
+  - first:
+      213: 21300062
+    second: Outside_A3_31
+  - first:
+      213: 21300064
+    second: Outside_A3_32
+  - first:
+      213: 21300066
+    second: Outside_A3_33
+  - first:
+      213: 21300068
+    second: Outside_A3_34
+  - first:
+      213: 21300070
+    second: Outside_A3_35
+  - first:
+      213: 21300072
+    second: Outside_A3_36
+  - first:
+      213: 21300074
+    second: Outside_A3_37
+  - first:
+      213: 21300076
+    second: Outside_A3_38
+  - first:
+      213: 21300078
+    second: Outside_A3_39
+  - first:
+      213: 21300080
+    second: Outside_A3_40
+  - first:
+      213: 21300082
+    second: Outside_A3_41
+  - first:
+      213: 21300084
+    second: Outside_A3_42
+  - first:
+      213: 21300086
+    second: Outside_A3_43
+  - first:
+      213: 21300088
+    second: Outside_A3_44
+  - first:
+      213: 21300090
+    second: Outside_A3_45
+  - first:
+      213: 21300092
+    second: Outside_A3_46
+  - first:
+      213: 21300094
+    second: Outside_A3_47
+  - first:
+      213: 21300096
+    second: Outside_A3_48
+  - first:
+      213: 21300098
+    second: Outside_A3_49
+  - first:
+      213: 21300100
+    second: Outside_A3_50
+  - first:
+      213: 21300102
+    second: Outside_A3_51
+  - first:
+      213: 21300104
+    second: Outside_A3_52
+  - first:
+      213: 21300106
+    second: Outside_A3_53
+  - first:
+      213: 21300108
+    second: Outside_A3_54
+  - first:
+      213: 21300110
+    second: Outside_A3_55
+  - first:
+      213: 21300112
+    second: Outside_A3_56
+  - first:
+      213: 21300114
+    second: Outside_A3_57
+  - first:
+      213: 21300116
+    second: Outside_A3_58
+  - first:
+      213: 21300118
+    second: Outside_A3_59
+  - first:
+      213: 21300120
+    second: Outside_A3_60
+  - first:
+      213: 21300122
+    second: Outside_A3_61
+  - first:
+      213: 21300124
+    second: Outside_A3_62
+  - first:
+      213: 21300126
+    second: Outside_A3_63
+  - first:
+      213: 21300128
+    second: Outside_A3_64
+  - first:
+      213: 21300130
+    second: Outside_A3_65
+  - first:
+      213: 21300132
+    second: Outside_A3_66
+  - first:
+      213: 21300134
+    second: Outside_A3_67
+  - first:
+      213: 21300136
+    second: Outside_A3_68
+  - first:
+      213: 21300138
+    second: Outside_A3_69
+  - first:
+      213: 21300140
+    second: Outside_A3_70
+  - first:
+      213: 21300142
+    second: Outside_A3_71
+  - first:
+      213: 21300144
+    second: Outside_A3_72
+  - first:
+      213: 21300146
+    second: Outside_A3_73
+  - first:
+      213: 21300148
+    second: Outside_A3_74
+  - first:
+      213: 21300150
+    second: Outside_A3_75
+  - first:
+      213: 21300152
+    second: Outside_A3_76
+  - first:
+      213: 21300154
+    second: Outside_A3_77
+  - first:
+      213: 21300156
+    second: Outside_A3_78
+  - first:
+      213: 21300158
+    second: Outside_A3_79
+  - first:
+      213: 21300160
+    second: Outside_A3_80
+  - first:
+      213: 21300162
+    second: Outside_A3_81
+  - first:
+      213: 21300164
+    second: Outside_A3_82
+  - first:
+      213: 21300166
+    second: Outside_A3_83
+  - first:
+      213: 21300168
+    second: Outside_A3_84
+  - first:
+      213: 21300170
+    second: Outside_A3_85
+  - first:
+      213: 21300172
+    second: Outside_A3_86
+  - first:
+      213: 21300174
+    second: Outside_A3_87
+  - first:
+      213: 21300176
+    second: Outside_A3_88
+  - first:
+      213: 21300178
+    second: Outside_A3_89
+  - first:
+      213: 21300180
+    second: Outside_A3_90
+  - first:
+      213: 21300182
+    second: Outside_A3_91
+  - first:
+      213: 21300184
+    second: Outside_A3_92
+  - first:
+      213: 21300186
+    second: Outside_A3_93
+  - first:
+      213: 21300188
+    second: Outside_A3_94
+  - first:
+      213: 21300190
+    second: Outside_A3_95
+  - first:
+      213: 21300192
+    second: Outside_A3_96
+  - first:
+      213: 21300194
+    second: Outside_A3_97
+  - first:
+      213: 21300196
+    second: Outside_A3_98
+  - first:
+      213: 21300198
+    second: Outside_A3_99
+  - first:
+      213: 21300200
+    second: Outside_A3_100
+  - first:
+      213: 21300202
+    second: Outside_A3_101
+  - first:
+      213: 21300204
+    second: Outside_A3_102
+  - first:
+      213: 21300206
+    second: Outside_A3_103
+  - first:
+      213: 21300208
+    second: Outside_A3_104
+  - first:
+      213: 21300210
+    second: Outside_A3_105
+  - first:
+      213: 21300212
+    second: Outside_A3_106
+  - first:
+      213: 21300214
+    second: Outside_A3_107
+  - first:
+      213: 21300216
+    second: Outside_A3_108
+  - first:
+      213: 21300218
+    second: Outside_A3_109
+  - first:
+      213: 21300220
+    second: Outside_A3_110
+  - first:
+      213: 21300222
+    second: Outside_A3_111
+  - first:
+      213: 21300224
+    second: Outside_A3_112
+  - first:
+      213: 21300226
+    second: Outside_A3_113
+  - first:
+      213: 21300228
+    second: Outside_A3_114
+  - first:
+      213: 21300230
+    second: Outside_A3_115
+  - first:
+      213: 21300232
+    second: Outside_A3_116
+  - first:
+      213: 21300234
+    second: Outside_A3_117
+  - first:
+      213: 21300236
+    second: Outside_A3_118
+  - first:
+      213: 21300238
+    second: Outside_A3_119
+  - first:
+      213: 21300240
+    second: Outside_A3_120
+  - first:
+      213: 21300242
+    second: Outside_A3_121
+  - first:
+      213: 21300244
+    second: Outside_A3_122
+  - first:
+      213: 21300246
+    second: Outside_A3_123
+  - first:
+      213: 21300248
+    second: Outside_A3_124
+  - first:
+      213: 21300250
+    second: Outside_A3_125
+  - first:
+      213: 21300252
+    second: Outside_A3_126
+  - first:
+      213: 21300254
+    second: Outside_A3_127
+  - first:
+      213: 21300256
+    second: Outside_A3_128
+  - first:
+      213: 21300258
+    second: Outside_A3_129
+  - first:
+      213: 21300260
+    second: Outside_A3_130
+  - first:
+      213: 21300262
+    second: Outside_A3_131
+  - first:
+      213: 21300264
+    second: Outside_A3_132
+  - first:
+      213: 21300266
+    second: Outside_A3_133
+  - first:
+      213: 21300268
+    second: Outside_A3_134
+  - first:
+      213: 21300270
+    second: Outside_A3_135
+  - first:
+      213: 21300272
+    second: Outside_A3_136
+  - first:
+      213: 21300274
+    second: Outside_A3_137
+  - first:
+      213: 21300276
+    second: Outside_A3_138
+  - first:
+      213: 21300278
+    second: Outside_A3_139
+  - first:
+      213: 21300280
+    second: Outside_A3_140
+  - first:
+      213: 21300282
+    second: Outside_A3_141
+  - first:
+      213: 21300284
+    second: Outside_A3_142
+  - first:
+      213: 21300286
+    second: Outside_A3_143
+  - first:
+      213: 21300288
+    second: Outside_A3_144
+  - first:
+      213: 21300290
+    second: Outside_A3_145
+  - first:
+      213: 21300292
+    second: Outside_A3_146
+  - first:
+      213: 21300294
+    second: Outside_A3_147
+  - first:
+      213: 21300296
+    second: Outside_A3_148
+  - first:
+      213: 21300298
+    second: Outside_A3_149
+  - first:
+      213: 21300300
+    second: Outside_A3_150
+  - first:
+      213: 21300302
+    second: Outside_A3_151
+  - first:
+      213: 21300304
+    second: Outside_A3_152
+  - first:
+      213: 21300306
+    second: Outside_A3_153
+  - first:
+      213: 21300308
+    second: Outside_A3_154
+  - first:
+      213: 21300310
+    second: Outside_A3_155
+  - first:
+      213: 21300312
+    second: Outside_A3_156
+  - first:
+      213: 21300314
+    second: Outside_A3_157
+  - first:
+      213: 21300316
+    second: Outside_A3_158
+  - first:
+      213: 21300318
+    second: Outside_A3_159
+  - first:
+      213: 21300320
+    second: Outside_A3_160
+  - first:
+      213: 21300322
+    second: Outside_A3_161
+  - first:
+      213: 21300324
+    second: Outside_A3_162
+  - first:
+      213: 21300326
+    second: Outside_A3_163
+  - first:
+      213: 21300328
+    second: Outside_A3_164
+  - first:
+      213: 21300330
+    second: Outside_A3_165
+  - first:
+      213: 21300332
+    second: Outside_A3_166
+  - first:
+      213: 21300334
+    second: Outside_A3_167
+  - first:
+      213: 21300336
+    second: Outside_A3_168
+  - first:
+      213: 21300338
+    second: Outside_A3_169
+  - first:
+      213: 21300340
+    second: Outside_A3_170
+  - first:
+      213: 21300342
+    second: Outside_A3_171
+  - first:
+      213: 21300344
+    second: Outside_A3_172
+  - first:
+      213: 21300346
+    second: Outside_A3_173
+  - first:
+      213: 21300348
+    second: Outside_A3_174
+  - first:
+      213: 21300350
+    second: Outside_A3_175
+  - first:
+      213: 21300352
+    second: Outside_A3_176
+  - first:
+      213: 21300354
+    second: Outside_A3_177
+  - first:
+      213: 21300356
+    second: Outside_A3_178
+  - first:
+      213: 21300358
+    second: Outside_A3_179
+  - first:
+      213: 21300360
+    second: Outside_A3_180
+  - first:
+      213: 21300362
+    second: Outside_A3_181
+  - first:
+      213: 21300364
+    second: Outside_A3_182
+  - first:
+      213: 21300366
+    second: Outside_A3_183
+  - first:
+      213: 21300368
+    second: Outside_A3_184
+  - first:
+      213: 21300370
+    second: Outside_A3_185
+  - first:
+      213: 21300372
+    second: Outside_A3_186
+  - first:
+      213: 21300374
+    second: Outside_A3_187
+  - first:
+      213: 21300376
+    second: Outside_A3_188
+  - first:
+      213: 21300378
+    second: Outside_A3_189
+  - first:
+      213: 21300380
+    second: Outside_A3_190
+  - first:
+      213: 21300382
+    second: Outside_A3_191
+  - first:
+      213: 21300384
+    second: Outside_A3_192
+  - first:
+      213: 21300386
+    second: Outside_A3_193
+  - first:
+      213: 21300388
+    second: Outside_A3_194
+  - first:
+      213: 21300390
+    second: Outside_A3_195
+  - first:
+      213: 21300392
+    second: Outside_A3_196
+  - first:
+      213: 21300394
+    second: Outside_A3_197
+  - first:
+      213: 21300396
+    second: Outside_A3_198
+  - first:
+      213: 21300398
+    second: Outside_A3_199
+  - first:
+      213: 21300400
+    second: Outside_A3_200
+  - first:
+      213: 21300402
+    second: Outside_A3_201
+  - first:
+      213: 21300404
+    second: Outside_A3_202
+  - first:
+      213: 21300406
+    second: Outside_A3_203
+  - first:
+      213: 21300408
+    second: Outside_A3_204
+  - first:
+      213: 21300410
+    second: Outside_A3_205
+  - first:
+      213: 21300412
+    second: Outside_A3_206
+  - first:
+      213: 21300414
+    second: Outside_A3_207
+  - first:
+      213: 21300416
+    second: Outside_A3_208
+  - first:
+      213: 21300418
+    second: Outside_A3_209
+  - first:
+      213: 21300420
+    second: Outside_A3_210
+  - first:
+      213: 21300422
+    second: Outside_A3_211
+  - first:
+      213: 21300424
+    second: Outside_A3_212
+  - first:
+      213: 21300426
+    second: Outside_A3_213
+  - first:
+      213: 21300428
+    second: Outside_A3_214
+  - first:
+      213: 21300430
+    second: Outside_A3_215
+  - first:
+      213: 21300432
+    second: Outside_A3_216
+  - first:
+      213: 21300434
+    second: Outside_A3_217
+  - first:
+      213: 21300436
+    second: Outside_A3_218
+  - first:
+      213: 21300438
+    second: Outside_A3_219
+  - first:
+      213: 21300440
+    second: Outside_A3_220
+  - first:
+      213: 21300442
+    second: Outside_A3_221
+  - first:
+      213: 21300444
+    second: Outside_A3_222
+  - first:
+      213: 21300446
+    second: Outside_A3_223
+  - first:
+      213: 21300448
+    second: Outside_A3_224
+  - first:
+      213: 21300450
+    second: Outside_A3_225
+  - first:
+      213: 21300452
+    second: Outside_A3_226
+  - first:
+      213: 21300454
+    second: Outside_A3_227
+  - first:
+      213: 21300456
+    second: Outside_A3_228
+  - first:
+      213: 21300458
+    second: Outside_A3_229
+  - first:
+      213: 21300460
+    second: Outside_A3_230
+  - first:
+      213: 21300462
+    second: Outside_A3_231
+  - first:
+      213: 21300464
+    second: Outside_A3_232
+  - first:
+      213: 21300466
+    second: Outside_A3_233
+  - first:
+      213: 21300468
+    second: Outside_A3_234
+  - first:
+      213: 21300470
+    second: Outside_A3_235
+  - first:
+      213: 21300472
+    second: Outside_A3_236
+  - first:
+      213: 21300474
+    second: Outside_A3_237
+  - first:
+      213: 21300476
+    second: Outside_A3_238
+  - first:
+      213: 21300478
+    second: Outside_A3_239
+  - first:
+      213: 21300480
+    second: Outside_A3_240
+  - first:
+      213: 21300482
+    second: Outside_A3_241
+  - first:
+      213: 21300484
+    second: Outside_A3_242
+  - first:
+      213: 21300486
+    second: Outside_A3_243
+  - first:
+      213: 21300488
+    second: Outside_A3_244
+  - first:
+      213: 21300490
+    second: Outside_A3_245
+  - first:
+      213: 21300492
+    second: Outside_A3_246
+  - first:
+      213: 21300494
+    second: Outside_A3_247
+  - first:
+      213: 21300496
+    second: Outside_A3_248
+  - first:
+      213: 21300498
+    second: Outside_A3_249
+  - first:
+      213: 21300500
+    second: Outside_A3_250
+  - first:
+      213: 21300502
+    second: Outside_A3_251
+  - first:
+      213: 21300504
+    second: Outside_A3_252
+  - first:
+      213: 21300506
+    second: Outside_A3_253
+  - first:
+      213: 21300508
+    second: Outside_A3_254
+  - first:
+      213: 21300510
+    second: Outside_A3_255
+  - first:
+      213: 21300512
+    second: Outside_A3_256
+  - first:
+      213: 21300514
+    second: Outside_A3_257
+  - first:
+      213: 21300516
+    second: Outside_A3_258
+  - first:
+      213: 21300518
+    second: Outside_A3_259
+  - first:
+      213: 21300520
+    second: Outside_A3_260
+  - first:
+      213: 21300522
+    second: Outside_A3_261
+  - first:
+      213: 21300524
+    second: Outside_A3_262
+  - first:
+      213: 21300526
+    second: Outside_A3_263
+  - first:
+      213: 21300528
+    second: Outside_A3_264
+  - first:
+      213: 21300530
+    second: Outside_A3_265
+  - first:
+      213: 21300532
+    second: Outside_A3_266
+  - first:
+      213: 21300534
+    second: Outside_A3_267
+  - first:
+      213: 21300536
+    second: Outside_A3_268
+  - first:
+      213: 21300538
+    second: Outside_A3_269
+  - first:
+      213: 21300540
+    second: Outside_A3_270
+  - first:
+      213: 21300542
+    second: Outside_A3_271
+  - first:
+      213: 21300544
+    second: Outside_A3_272
+  - first:
+      213: 21300546
+    second: Outside_A3_273
+  - first:
+      213: 21300548
+    second: Outside_A3_274
+  - first:
+      213: 21300550
+    second: Outside_A3_275
+  - first:
+      213: 21300552
+    second: Outside_A3_276
+  - first:
+      213: 21300554
+    second: Outside_A3_277
+  - first:
+      213: 21300556
+    second: Outside_A3_278
+  - first:
+      213: 21300558
+    second: Outside_A3_279
+  - first:
+      213: 21300560
+    second: Outside_A3_280
+  - first:
+      213: 21300562
+    second: Outside_A3_281
+  - first:
+      213: 21300564
+    second: Outside_A3_282
+  - first:
+      213: 21300566
+    second: Outside_A3_283
+  - first:
+      213: 21300568
+    second: Outside_A3_284
+  - first:
+      213: 21300570
+    second: Outside_A3_285
+  - first:
+      213: 21300572
+    second: Outside_A3_286
+  - first:
+      213: 21300574
+    second: Outside_A3_287
+  - first:
+      213: 21300576
+    second: Outside_A3_288
+  - first:
+      213: 21300578
+    second: Outside_A3_289
+  - first:
+      213: 21300580
+    second: Outside_A3_290
+  - first:
+      213: 21300582
+    second: Outside_A3_291
+  - first:
+      213: 21300584
+    second: Outside_A3_292
+  - first:
+      213: 21300586
+    second: Outside_A3_293
+  - first:
+      213: 21300588
+    second: Outside_A3_294
+  - first:
+      213: 21300590
+    second: Outside_A3_295
+  - first:
+      213: 21300592
+    second: Outside_A3_296
+  - first:
+      213: 21300594
+    second: Outside_A3_297
+  - first:
+      213: 21300596
+    second: Outside_A3_298
+  - first:
+      213: 21300598
+    second: Outside_A3_299
+  - first:
+      213: 21300600
+    second: Outside_A3_300
+  - first:
+      213: 21300602
+    second: Outside_A3_301
+  - first:
+      213: 21300604
+    second: Outside_A3_302
+  - first:
+      213: 21300606
+    second: Outside_A3_303
+  - first:
+      213: 21300608
+    second: Outside_A3_304
+  - first:
+      213: 21300610
+    second: Outside_A3_305
+  - first:
+      213: 21300612
+    second: Outside_A3_306
+  - first:
+      213: 21300614
+    second: Outside_A3_307
+  - first:
+      213: 21300616
+    second: Outside_A3_308
+  - first:
+      213: 21300618
+    second: Outside_A3_309
+  - first:
+      213: 21300620
+    second: Outside_A3_310
+  - first:
+      213: 21300622
+    second: Outside_A3_311
+  - first:
+      213: 21300624
+    second: Outside_A3_312
+  - first:
+      213: 21300626
+    second: Outside_A3_313
+  - first:
+      213: 21300628
+    second: Outside_A3_314
+  - first:
+      213: 21300630
+    second: Outside_A3_315
+  - first:
+      213: 21300632
+    second: Outside_A3_316
+  - first:
+      213: 21300634
+    second: Outside_A3_317
+  - first:
+      213: 21300636
+    second: Outside_A3_318
+  - first:
+      213: 21300638
+    second: Outside_A3_319
+  - first:
+      213: 21300640
+    second: Outside_A3_320
+  - first:
+      213: 21300642
+    second: Outside_A3_321
+  - first:
+      213: 21300644
+    second: Outside_A3_322
+  - first:
+      213: 21300646
+    second: Outside_A3_323
+  - first:
+      213: 21300648
+    second: Outside_A3_324
+  - first:
+      213: 21300650
+    second: Outside_A3_325
+  - first:
+      213: 21300652
+    second: Outside_A3_326
+  - first:
+      213: 21300654
+    second: Outside_A3_327
+  - first:
+      213: 21300656
+    second: Outside_A3_328
+  - first:
+      213: 21300658
+    second: Outside_A3_329
+  - first:
+      213: 21300660
+    second: Outside_A3_330
+  - first:
+      213: 21300662
+    second: Outside_A3_331
+  - first:
+      213: 21300664
+    second: Outside_A3_332
+  - first:
+      213: 21300666
+    second: Outside_A3_333
+  - first:
+      213: 21300668
+    second: Outside_A3_334
+  - first:
+      213: 21300670
+    second: Outside_A3_335
+  - first:
+      213: 21300672
+    second: Outside_A3_336
+  - first:
+      213: 21300674
+    second: Outside_A3_337
+  - first:
+      213: 21300676
+    second: Outside_A3_338
+  - first:
+      213: 21300678
+    second: Outside_A3_339
+  - first:
+      213: 21300680
+    second: Outside_A3_340
+  - first:
+      213: 21300682
+    second: Outside_A3_341
+  - first:
+      213: 21300684
+    second: Outside_A3_342
+  - first:
+      213: 21300686
+    second: Outside_A3_343
+  - first:
+      213: 21300688
+    second: Outside_A3_344
+  - first:
+      213: 21300690
+    second: Outside_A3_345
+  - first:
+      213: 21300692
+    second: Outside_A3_346
+  - first:
+      213: 21300694
+    second: Outside_A3_347
+  - first:
+      213: 21300696
+    second: Outside_A3_348
+  - first:
+      213: 21300698
+    second: Outside_A3_349
+  - first:
+      213: 21300700
+    second: Outside_A3_350
+  - first:
+      213: 21300702
+    second: Outside_A3_351
+  - first:
+      213: 21300704
+    second: Outside_A3_352
+  - first:
+      213: 21300706
+    second: Outside_A3_353
+  - first:
+      213: 21300708
+    second: Outside_A3_354
+  - first:
+      213: 21300710
+    second: Outside_A3_355
+  - first:
+      213: 21300712
+    second: Outside_A3_356
+  - first:
+      213: 21300714
+    second: Outside_A3_357
+  - first:
+      213: 21300716
+    second: Outside_A3_358
+  - first:
+      213: 21300718
+    second: Outside_A3_359
+  - first:
+      213: 21300720
+    second: Outside_A3_360
+  - first:
+      213: 21300722
+    second: Outside_A3_361
+  - first:
+      213: 21300724
+    second: Outside_A3_362
+  - first:
+      213: 21300726
+    second: Outside_A3_363
+  - first:
+      213: 21300728
+    second: Outside_A3_364
+  - first:
+      213: 21300730
+    second: Outside_A3_365
+  - first:
+      213: 21300732
+    second: Outside_A3_366
+  - first:
+      213: 21300734
+    second: Outside_A3_367
+  - first:
+      213: 21300736
+    second: Outside_A3_368
+  - first:
+      213: 21300738
+    second: Outside_A3_369
+  - first:
+      213: 21300740
+    second: Outside_A3_370
+  - first:
+      213: 21300742
+    second: Outside_A3_371
+  - first:
+      213: 21300744
+    second: Outside_A3_372
+  - first:
+      213: 21300746
+    second: Outside_A3_373
+  - first:
+      213: 21300748
+    second: Outside_A3_374
+  - first:
+      213: 21300750
+    second: Outside_A3_375
+  - first:
+      213: 21300752
+    second: Outside_A3_376
+  - first:
+      213: 21300754
+    second: Outside_A3_377
+  - first:
+      213: 21300756
+    second: Outside_A3_378
+  - first:
+      213: 21300758
+    second: Outside_A3_379
+  - first:
+      213: 21300760
+    second: Outside_A3_380
+  - first:
+      213: 21300762
+    second: Outside_A3_381
+  - first:
+      213: 21300764
+    second: Outside_A3_382
+  - first:
+      213: 21300766
+    second: Outside_A3_383
+  - first:
+      213: 21300768
+    second: Outside_A3_384
+  - first:
+      213: 21300770
+    second: Outside_A3_385
+  - first:
+      213: 21300772
+    second: Outside_A3_386
+  - first:
+      213: 21300774
+    second: Outside_A3_387
+  - first:
+      213: 21300776
+    second: Outside_A3_388
+  - first:
+      213: 21300778
+    second: Outside_A3_389
+  - first:
+      213: 21300780
+    second: Outside_A3_390
+  - first:
+      213: 21300782
+    second: Outside_A3_391
+  - first:
+      213: 21300784
+    second: Outside_A3_392
+  - first:
+      213: 21300786
+    second: Outside_A3_393
+  - first:
+      213: 21300788
+    second: Outside_A3_394
+  - first:
+      213: 21300790
+    second: Outside_A3_395
+  - first:
+      213: 21300792
+    second: Outside_A3_396
+  - first:
+      213: 21300794
+    second: Outside_A3_397
+  - first:
+      213: 21300796
+    second: Outside_A3_398
+  - first:
+      213: 21300798
+    second: Outside_A3_399
+  - first:
+      213: 21300800
+    second: Outside_A3_400
+  - first:
+      213: 21300802
+    second: Outside_A3_401
+  - first:
+      213: 21300804
+    second: Outside_A3_402
+  - first:
+      213: 21300806
+    second: Outside_A3_403
+  - first:
+      213: 21300808
+    second: Outside_A3_404
+  - first:
+      213: 21300810
+    second: Outside_A3_405
+  - first:
+      213: 21300812
+    second: Outside_A3_406
+  - first:
+      213: 21300814
+    second: Outside_A3_407
+  - first:
+      213: 21300816
+    second: Outside_A3_408
+  - first:
+      213: 21300818
+    second: Outside_A3_409
+  - first:
+      213: 21300820
+    second: Outside_A3_410
+  - first:
+      213: 21300822
+    second: Outside_A3_411
+  - first:
+      213: 21300824
+    second: Outside_A3_412
+  - first:
+      213: 21300826
+    second: Outside_A3_413
+  - first:
+      213: 21300828
+    second: Outside_A3_414
+  - first:
+      213: 21300830
+    second: Outside_A3_415
+  - first:
+      213: 21300832
+    second: Outside_A3_416
+  - first:
+      213: 21300834
+    second: Outside_A3_417
+  - first:
+      213: 21300836
+    second: Outside_A3_418
+  - first:
+      213: 21300838
+    second: Outside_A3_419
+  - first:
+      213: 21300840
+    second: Outside_A3_420
+  - first:
+      213: 21300842
+    second: Outside_A3_421
+  - first:
+      213: 21300844
+    second: Outside_A3_422
+  - first:
+      213: 21300846
+    second: Outside_A3_423
+  - first:
+      213: 21300848
+    second: Outside_A3_424
+  - first:
+      213: 21300850
+    second: Outside_A3_425
+  - first:
+      213: 21300852
+    second: Outside_A3_426
+  - first:
+      213: 21300854
+    second: Outside_A3_427
+  - first:
+      213: 21300856
+    second: Outside_A3_428
+  - first:
+      213: 21300858
+    second: Outside_A3_429
+  - first:
+      213: 21300860
+    second: Outside_A3_430
+  - first:
+      213: 21300862
+    second: Outside_A3_431
+  - first:
+      213: 21300864
+    second: Outside_A3_432
+  - first:
+      213: 21300866
+    second: Outside_A3_433
+  - first:
+      213: 21300868
+    second: Outside_A3_434
+  - first:
+      213: 21300870
+    second: Outside_A3_435
+  - first:
+      213: 21300872
+    second: Outside_A3_436
+  - first:
+      213: 21300874
+    second: Outside_A3_437
+  - first:
+      213: 21300876
+    second: Outside_A3_438
+  - first:
+      213: 21300878
+    second: Outside_A3_439
+  - first:
+      213: 21300880
+    second: Outside_A3_440
+  - first:
+      213: 21300882
+    second: Outside_A3_441
+  - first:
+      213: 21300884
+    second: Outside_A3_442
+  - first:
+      213: 21300886
+    second: Outside_A3_443
+  - first:
+      213: 21300888
+    second: Outside_A3_444
+  - first:
+      213: 21300890
+    second: Outside_A3_445
+  - first:
+      213: 21300892
+    second: Outside_A3_446
+  - first:
+      213: 21300894
+    second: Outside_A3_447
+  - first:
+      213: 21300896
+    second: Outside_A3_448
+  - first:
+      213: 21300898
+    second: Outside_A3_449
+  - first:
+      213: 21300900
+    second: Outside_A3_450
+  - first:
+      213: 21300902
+    second: Outside_A3_451
+  - first:
+      213: 21300904
+    second: Outside_A3_452
+  - first:
+      213: 21300906
+    second: Outside_A3_453
+  - first:
+      213: 21300908
+    second: Outside_A3_454
+  - first:
+      213: 21300910
+    second: Outside_A3_455
+  - first:
+      213: 21300912
+    second: Outside_A3_456
+  - first:
+      213: 21300914
+    second: Outside_A3_457
+  - first:
+      213: 21300916
+    second: Outside_A3_458
+  - first:
+      213: 21300918
+    second: Outside_A3_459
+  - first:
+      213: 21300920
+    second: Outside_A3_460
+  - first:
+      213: 21300922
+    second: Outside_A3_461
+  - first:
+      213: 21300924
+    second: Outside_A3_462
+  - first:
+      213: 21300926
+    second: Outside_A3_463
+  - first:
+      213: 21300928
+    second: Outside_A3_464
+  - first:
+      213: 21300930
+    second: Outside_A3_465
+  - first:
+      213: 21300932
+    second: Outside_A3_466
+  - first:
+      213: 21300934
+    second: Outside_A3_467
+  - first:
+      213: 21300936
+    second: Outside_A3_468
+  - first:
+      213: 21300938
+    second: Outside_A3_469
+  - first:
+      213: 21300940
+    second: Outside_A3_470
+  - first:
+      213: 21300942
+    second: Outside_A3_471
+  - first:
+      213: 21300944
+    second: Outside_A3_472
+  - first:
+      213: 21300946
+    second: Outside_A3_473
+  - first:
+      213: 21300948
+    second: Outside_A3_474
+  - first:
+      213: 21300950
+    second: Outside_A3_475
+  - first:
+      213: 21300952
+    second: Outside_A3_476
+  - first:
+      213: 21300954
+    second: Outside_A3_477
+  - first:
+      213: 21300956
+    second: Outside_A3_478
+  - first:
+      213: 21300958
+    second: Outside_A3_479
+  - first:
+      213: 21300960
+    second: Outside_A3_480
+  - first:
+      213: 21300962
+    second: Outside_A3_481
+  - first:
+      213: 21300964
+    second: Outside_A3_482
+  - first:
+      213: 21300966
+    second: Outside_A3_483
+  - first:
+      213: 21300968
+    second: Outside_A3_484
+  - first:
+      213: 21300970
+    second: Outside_A3_485
+  - first:
+      213: 21300972
+    second: Outside_A3_486
+  - first:
+      213: 21300974
+    second: Outside_A3_487
+  - first:
+      213: 21300976
+    second: Outside_A3_488
+  - first:
+      213: 21300978
+    second: Outside_A3_489
+  - first:
+      213: 21300980
+    second: Outside_A3_490
+  - first:
+      213: 21300982
+    second: Outside_A3_491
+  - first:
+      213: 21300984
+    second: Outside_A3_492
+  - first:
+      213: 21300986
+    second: Outside_A3_493
+  - first:
+      213: 21300988
+    second: Outside_A3_494
+  - first:
+      213: 21300990
+    second: Outside_A3_495
+  - first:
+      213: 21300992
+    second: Outside_A3_496
+  - first:
+      213: 21300994
+    second: Outside_A3_497
+  - first:
+      213: 21300996
+    second: Outside_A3_498
+  - first:
+      213: 21300998
+    second: Outside_A3_499
+  - first:
+      213: 21301000
+    second: Outside_A3_500
+  - first:
+      213: 21301002
+    second: Outside_A3_501
+  - first:
+      213: 21301004
+    second: Outside_A3_502
+  - first:
+      213: 21301006
+    second: Outside_A3_503
+  - first:
+      213: 21301008
+    second: Outside_A3_504
+  - first:
+      213: 21301010
+    second: Outside_A3_505
+  - first:
+      213: 21301012
+    second: Outside_A3_506
+  - first:
+      213: 21301014
+    second: Outside_A3_507
+  - first:
+      213: 21301016
+    second: Outside_A3_508
+  - first:
+      213: 21301018
+    second: Outside_A3_509
+  - first:
+      213: 21301020
+    second: Outside_A3_510
+  - first:
+      213: 21301022
+    second: Outside_A3_511
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Outside_A3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a996e4073234a949949a3e78577e519
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37dc8a0393a3ca4284c6076ffdfab5d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3203aec9b7cbfbf46922cdc04b8b642f
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3586217b2cdc1ad43bc235051710b740
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9253d68b5602ed4408095122f3dbcbbd
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2f7987670950844ae64ca9eec2dc9e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711ec8b2f958887498ab9335d9c707c9
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef902b0dc17648468e0eaa9321cf41e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e8c874ed6ea344f9c8073f153d6691
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06387f53250ea649acb1b0669b45fa2
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de72e19b6abd64042a15977fe0846a00
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c5146ba264e0a4e9525fc4f523daed
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41360fc92508ce41bc814b28e222e48
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cb54a5dac7a814c823858ab296b049
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4baa5a6d6b2f346a245763c684b759
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547d6b2ecf65218408d6b071007d7f3b
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c7100dea35ff944b423fb0a1376dbc
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620fb6c744590c14bb311fe6af3b9e55
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac503362ad01c2946b1c72d6d39ef6b4
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acc3de122448ad4e8d9bb341f659b28
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355ae6d9251639e48abab018728f66d3
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898989fd755ca0549b362f48582a841c
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e62c8c680cda1489835b7cff824713
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a562c136c5c984da2c282e2450fc85
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b9220f127a6a4ca2b0291b8d59103
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac00529f27d71a48b62e6408b0d00d7
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34096f11e0ed02e43949256f2a61ce8e
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ef6a17949f90f47980f010fb6bd796
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c214f4f028b894b478113f7de8a158d5
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1497ba5dea816479a736711b056e12
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84d27295cafa3243881b8c467f24472
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d18b75c0fb2949489e52814a40efbe8
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04a74b73114e404d9cd550eae0c7c1d
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95262794bce40f43af45d7ae396a564
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea648312764b5248bf9305204530253
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dd2287494d37240b10c4eb1e56999a
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd9cb6644526504c92d9f3515b49602
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef862e516f177c1428cbe85d5456f6c2
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda32419534780f49b3f5181a70d780f
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292d8bfff5992c04eae1197dd7960ea1
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9e3a70cd0dc0b42a13217ebcb57579
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda027de2ac08ab468420a6dc93e74a7
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9dd87e6f32d3b469b6232f4d7dedb3
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255f76d584fe4a84dbd0e7a0abfd5a22
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd806183c4a30db41b2aba1b79900934
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafeafcd25979424189f055e30bd3df2
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d9f893c79d65c4fb7932aff86b4f99
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a748f4f4a71eb764cac90b479b457bb6
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f277cd12d4bd428593aa52c20b83a
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b63a17d8e6e7d4b820f05dd3121497
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e428a5d5442e64f84db292a3a907e5
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8494b767faca409ef571a9cf5306f
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c50f1ca9f30b5141a1334cddf1791b3
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6b8e06f5e61f84a9eaf1ac602d80e7
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e484d45af0b6c4d991c42defebb3a0
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627f3e499d45a8844bb817cf4eb67ff0
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd074a8b03cbcf4ca52012106a8d94e
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7277693be9ae6284fb0c7fba2c1b1d17
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a601977fe66a304485c93ea56102004
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9222c10e50c9a3a40a813e57f54ab733
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d30c97c60812498f2d0f475b961d1
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d8eacb90c85324c9f2b81431b3f0f3
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819fd306bb68ffa429b0855b9bd131a8
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af4d8f5ffc291842bd98f1296af4b3c
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eb7300114b4ac4f89f354898eddc1d
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cc69676899fcc408cd6f75233ad401
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102f1285a4c5fbf459e5fba4d0d09abb
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1193f6cfddd254e90df342f872a916
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a380aeb7be3a3f04aaf033e16abfe32c
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82bd3a26a3072f49a0d1b8d3bc837ce
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185c61ba09ee7aa4287f2f07bc86fa3c
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfc185150ad969419cd8f7fa96fdad6
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548d5fc216a89674b9d5009de8673ab2
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7ab5b52b30e564192ad968f586a85d
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3694000a5b7c16a4b887d847fe87e79e
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c45ecc3a61f14bb4c217e2410e3e6
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef68968ee1a14da43afc070b58ffd8fc
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fefcf3c8c35b049b8da84d7f73ef8b
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441f4223928a81741892e509fa231022
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3549333ebb6c44392589e3d8437c83
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9de5017401b07429a5d91baf49978d
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e65f9485c0a0a4e8c41907daf7c721
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262b91f4af72e0c49a6158e790e66a7e
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f30ae7c60e59c4b912d638814ec4c9
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57b6ccd3091c6a4f8eed57fa88a7dab
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41965b300bc6b664dac904e04e3443db
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3e503e1ee577e4884f5a5cb902e7f0
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01688c92086d6f42b507a1838ffe307
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f347dfd5511f941a48e654cbf443bc
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49926091fad8ff54b9b7342c322c0d69
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0761534c28b5154ba53f1c23f17a1b4
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffde132b0a46d74a803798e8097fe5a
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a496df9da5804e44e90b3eda3f16c86e
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27c7b7a5278a894c99133c351828520
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534a46a68e59af34cad92696ad693e29
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6182be49d90b0a4590b51b4d35beb43
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96332ee2509217f449a2bc396962531e
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c996e3744edf176408a29fa2d0a07639
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32232e1a1c0d9042bbb925c9c6474c0
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0532833d67c802045b9edd436b37d1e8
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba73efb8be89f3343a439ebaeaf1b316
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa1e1da0fee1cf478ce5292c1631017
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e609ab23773a0814b9fd6cf83bc8c25d
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b54f8784a5c91428ea0815776c0f9e
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f44b79b23ce0234986ee1cc7500dca3
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ec5f50235120a409ec7238df7b1bc9
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622611ee22015e49afcb8390270b6ac
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840bf7fdf8a6dd3469fae08850763ac8
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7d8a35f7999c543acfc383d7e005c8
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b0a7b85be6cfd40af77c430ad0ad86
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8768a789de8fe0347b2448b14daa877e
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d825369358ffc44487c451fd880b103
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b3cb2e06452c94792a784841b36cef
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1726bfe3a18e8924aafac4492d41dee2
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb7e0aeb06eaf449b5a2e64f3b5222d
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c602752f215505d45a19f8661ff8c9b9
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e9a9b080250c4479263f4e34ba6052
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892f9674c3163e146811077b5db8ea64
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12cb81e6e73cb74a8a64b9d168dd390
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad1943b8b9bfb4a81cd6c0367851af
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e9c7d9d531d984a95fd176da2b653b
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4dc4a36bae5c94ea118e59c480be7a
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34d05b96db3ddd4cacdb5368346fd33
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bf33ac04657844fa14234b8e74b768
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e5ae44887e66d43978e2ccbbceb3ab
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a08af627b5a54d900fd2251bbf935
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af80a54d454a3054fae66a0343cf5540
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_A3_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7df99862b94ad844b59ce4fa39cc55a
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ae692296ff9c0784c87a8d5bb5a5221d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
