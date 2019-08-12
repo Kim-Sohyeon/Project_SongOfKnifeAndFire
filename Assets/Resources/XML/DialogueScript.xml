@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogueCollection>
+  <DialogueArea name="tutorial">
+    <Dialogue>
+      <isAnnouncer>true</isAnnouncer>
+      <npcName>Announcer</npcName>
+      <sentenceSize>1</sentenceSize>
+      <sentences>
+        <sentence>어느 화창한 날 쿠킹 슬레이어 연합본부 앞</sentence>
+      </sentences>
+    </Dialogue>
+    <Dialogue>
+      <isAnnouncer>false</isAnnouncer>
+      <npcName>토마토군</npcName>
+      <sentenceSize>1</sentenceSize>
+      <sentences>
+        <sentence>휴.. 벌써 문앞이야! 토마토 족의 기대주! 힘내보자!! 으쌰!</sentence>
+      </sentences>
+    </Dialogue>
+  </DialogueArea>
+  <DialogueArea name="test">
+    <Dialogue>
+      <isAnnouncer>false</isAnnouncer>
+      <npcName>두치와 뿌꾸</npcName>
+      <sentenceSize>2</sentenceSize>
+      <sentences>
+        <sentence>한치 두치 세치 네치</sentence>
+        <sentence>뿌꾸 빵 뿌꾸 빵</sentence>
+      </sentences>
+    </Dialogue>
+  </DialogueArea>
+</DialogueCollection>
